@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **Multiverse analysis**, basically applying active learning and automatic evaluation of alternative analysis to help science be more replicable.
+- 🔭 I’m currently working on **Multiverse analysis** -> fostering science replicability
 
 - 🌱 I’m currently learning **Java Script and React**
 
+- 💬 Ask me about **Statistics and Machine Learning**
+
 - 📫 How to reach me **zaggialeo@gmail.com**
+
+- ⚡ Fun fact: **Python does not bite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
