@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on thee **Neurodevelopment of preterm newborns ** 
+- 🔭 I’m currently working on thee **Neurodevelopment of preterm newborns** 
 
 - 💬 Ask me about **Statistics and Machine Learning**
 
